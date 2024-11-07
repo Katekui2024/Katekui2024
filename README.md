@@ -9,6 +9,7 @@ I'm passionate about transforming complex data into actionable insights. Skilled
 
 [![Gmail Badge](https://img.shields.io/badge/jangkatrina@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jangkatrina@gmail.com)](mailto:jangkatrina@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https:https://github.com/Katekui2024)](https://github.com/Katekui2024)
+<a href="https://www.linkedin.com/in/catherine-njang-ara-a202bb122/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  
  
 
